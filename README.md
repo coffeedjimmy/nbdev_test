@@ -2,6 +2,11 @@
 > Please check the websites
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 Hope you easily follow this.
 
 ## Install
