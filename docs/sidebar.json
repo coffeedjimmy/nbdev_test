@@ -1,6 +1,7 @@
 {
   "nbdev_test": {
     "Overview": "/",
-    "hello_nbdev": "core.html"
+    "hello_nbdev": "core.html",
+    "Modules": "modules.html"
   }
 }

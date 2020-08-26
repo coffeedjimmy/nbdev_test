@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: hello_nbdev
       url: core.html
+    - output: web,pdf
+      title: Modules
+      url: modules.html
     output: web
     title: nbdev_test
   output: web
